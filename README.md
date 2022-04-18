@@ -42,3 +42,7 @@ jobs:
         - scp -i ~/.ssh/practice-aws.pem ~/.ssh/id_rsa.pub ec2-user@ipアドレス:.ssh/id_rsa.pub
         - EC2側でauthorized_keysに公開鍵を許可
         - cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+## 2022/04/17
+### スライドショー機能を作る
+- Skippr(スキッパー)は、スライドショー機能を作成できるjQueryプラグイン
+- Skippr公式サイト => GitHub

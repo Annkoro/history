@@ -45,4 +45,4 @@ jobs:
 ## 2022/04/17
 ### スライドショー機能を作る
 - Skippr(スキッパー)は、スライドショー機能を作成できるjQueryプラグイン
-- Skippr公式サイト => GitHub
+- [Skippr公式サイト](http://austenpayan.github.io/skippr/) => GitHub => Clone or download => Download Zip => 

@@ -47,10 +47,12 @@ jobs:
 - Skippr(スキッパー)は、スライドショー機能を作成できるjQueryプラグイン
 - [Skippr公式サイト](http://austenpayan.github.io/skippr/) => GitHub => Clone or download => Download Zip => ファイルをデスクトップに保存
 ### Skipprの使用環境を整える流れ 
-3. jQueryをコピー => 4. index.html, style.cssを作成
 #### 1. 新規フォルダ作成
 SlideShowフォルダ作成 => js, css, imgフォルダをそれぞれ作る
-#### 2. kippr-masterフォルダ内のファイルをコピー
-ダウンロードしていた
-#### 3. 
-#### 4.
+#### 2. skippr-masterフォルダ内のファイルをコピー
+ダウンロードしていたskippr-master.zipを解凍して、distフォルダ内のskippr.css, skippr.min.jsをそれぞれ、1で作ったcss, jsフォルダにコピーする
+スライドショー用の画像はimgの格納する（assetsフォルダにtest画像があるのでそれ使ってもok）
+#### 3. jQueryをコピー
+[jQuery公式サイト](https://jquery.com/) からダウンロードしたらjquery.min.jsという名前に変更し、jsフォルダにコピーする
+#### 4. index.html, style.cssを作成
+SlideShowフォルダ直下にindex.htmlを、cssフォルダ内にstyle.cssを作成

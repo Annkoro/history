@@ -47,4 +47,5 @@ jobs:
 - Skippr(スキッパー)は、スライドショー機能を作成できるjQueryプラグイン
 - [Skippr公式サイト](http://austenpayan.github.io/skippr/) => GitHub => Clone or download => Download Zip => ファイルをデスクトップに保存
 - Skipprの使用環境を整える流れ => 1. 新規フォルダ作成 => 2. skippr-masterフォルダ内のファイルをコピー => 3. jQueryをコピー => 4. index.html, style.cssを作成
-- 1
+#### 1. 新規フォルダ作成
+SlideShowフォルダ作成 => js, css, imgフォルダをそれぞれ作る
